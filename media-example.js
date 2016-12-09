@@ -1,3 +1,4 @@
+/*eslint-env node */
 const artik = require('artik-sdk');
 
 var media = artik.media();
